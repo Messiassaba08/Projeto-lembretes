@@ -1,0 +1,6 @@
+@reminder.Server_HostAddress = http://localhost:5202
+
+GET {{reminder.Server_HostAddress}}/Program.cs/
+Accept: application/json
+
+###
