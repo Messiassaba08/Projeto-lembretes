@@ -23,9 +23,9 @@ Pensando na experiência do usuário foram implementadas algumas medidas para ev
 
 # Instruções para rodar o projeto
 
-## Clonar o repositório
+## Instalar Visual Studio Community 2022
 ```
-git clone https://github.com/Messiassaba08/DTI-Lembretes.git
+https://visualstudio.microsoft.com/pt-br/
 ```
 
 ## Frontend
@@ -59,3 +59,15 @@ dotnet restore
 dotnet build
 dotnet run
 ```
+# Rodando o programa
+
+###Entre no repositório do github:
+```
+https://github.com/Messiassaba08/DTI-Lembretes
+```
+### Selecione CODE e em seguida open with visual studio
+
+![code](https://github.com/Messiassaba08/DTI-Lembretes/assets/114305641/a8afa1d2-e7b1-4d95-993d-42ba293f0ffb)
+![open tih](https://github.com/Messiassaba08/DTI-Lembretes/assets/114305641/d0eb6bbc-04dc-4829-a5b2-fe7ca3ac1b6d)
+
+### Em seguida, 
