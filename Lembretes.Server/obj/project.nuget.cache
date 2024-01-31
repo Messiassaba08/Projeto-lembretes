@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "2wJo5bZZxenftAUeHnHxeL5/auFeLO8PPp4kWVOsf4yixLSl4JnBVL2Y5HK/4xP2wViAkQ9lc0kbe/WaB7XX/g==",
+  "dgSpecHash": "obx7Id2lBZ5SGvceSLhUvEN5ENiNagYOAAj47AncQ4EjMf1ohoB/5GWp7tj4x3BNshc7TYti8WGvlpDKRjVOZg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\messi\\OneDrive\\Área de Trabalho\\DTI\\Lembretes\\Lembretes.Server\\Lembretes.Server.csproj",
+  "projectFilePath": "C:\\Users\\messi\\OneDrive\\Área de Trabalho\\Nova pasta\\Lembretes.Server\\Lembretes.Server.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\messi\\.nuget\\packages\\azure.core\\1.25.0\\azure.core.1.25.0.nupkg.sha512",
     "C:\\Users\\messi\\.nuget\\packages\\azure.identity\\1.7.0\\azure.identity.1.7.0.nupkg.sha512",

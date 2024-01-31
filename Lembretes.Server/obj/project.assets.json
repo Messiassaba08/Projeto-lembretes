@@ -9228,11 +9228,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\messi\\OneDrive\\Área de Trabalho\\DTI\\Lembretes\\Lembretes.Server\\Lembretes.Server.csproj",
+      "projectUniqueName": "C:\\Users\\messi\\OneDrive\\Área de Trabalho\\Nova pasta\\Lembretes.Server\\Lembretes.Server.csproj",
       "projectName": "Lembretes.Server",
-      "projectPath": "C:\\Users\\messi\\OneDrive\\Área de Trabalho\\DTI\\Lembretes\\Lembretes.Server\\Lembretes.Server.csproj",
+      "projectPath": "C:\\Users\\messi\\OneDrive\\Área de Trabalho\\Nova pasta\\Lembretes.Server\\Lembretes.Server.csproj",
       "packagesPath": "C:\\Users\\messi\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\messi\\OneDrive\\Área de Trabalho\\DTI\\Lembretes\\Lembretes.Server\\obj\\",
+      "outputPath": "C:\\Users\\messi\\OneDrive\\Área de Trabalho\\Nova pasta\\Lembretes.Server\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\messi\\AppData\\Roaming\\NuGet\\NuGet.Config",

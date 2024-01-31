@@ -6,7 +6,7 @@
     display: flex;
     justify-content: center;
     align-items: center;
-    min-height: 100vh; 
+    min-height: 100vh;
 }
 
 .container {
@@ -15,7 +15,7 @@
     align-items: center;
     max-width: 800px;
     width: 100%;
-    background-color: #fff;
+    background-color: #ffffff; /* Cor de fundo do contêiner */
     padding: 20px;
     border-radius: 8px;
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
@@ -24,7 +24,7 @@
 h1#tabelLabel {
     color: #333;
     margin-bottom: 10px;
-    text-align: center; 
+    text-align: center;
 }
 
 hr.divider {
@@ -78,8 +78,30 @@ button {
 }
 
     button.edit {
-        background-color: #4caf50;
+        background-color: #36a630; /* Cor do botão Editar */
         color: white;
+    }
+
+        button.edit:hover {
+            background-color: #2c8628;
+        }
+
+        button.edit:active {
+            background-color: #236d21;
+        }
+
+    button.delete {
+        background-color: #d32f2f; /* Cor do botão Excluir */
+        color: white;
+    }
+
+        button.delete:hover {
+            background-color: #b72323;
+        }
+
+        button.delete:active {
+            background-color: #9e1e1e;
+        }
     }
 
         button.edit:hover {
