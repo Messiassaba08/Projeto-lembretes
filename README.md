@@ -65,9 +65,16 @@ dotnet run
 ```
 https://github.com/Messiassaba08/DTI-Lembretes
 ```
-### Selecione CODE e em seguida open with visual studio
-
+### Selecione CODE
 ![code](https://github.com/Messiassaba08/DTI-Lembretes/assets/114305641/a8afa1d2-e7b1-4d95-993d-42ba293f0ffb)
+### Open With Visual Studio
 ![open tih](https://github.com/Messiassaba08/DTI-Lembretes/assets/114305641/d0eb6bbc-04dc-4829-a5b2-fe7ca3ac1b6d)
+### Em seguida, Clone o repositório
+![clonar2](https://github.com/Messiassaba08/DTI-Lembretes/assets/114305641/f83901a4-a01a-477a-9469-15b5f92b2b9e)
+### Aperte F5 e Digite no endereço o local host correspondente como nas imagens
+![f5](https://github.com/Messiassaba08/DTI-Lembretes/assets/114305641/e4b1a900-15ab-479c-8411-98ba23004583)
+![f52](https://github.com/Messiassaba08/DTI-Lembretes/assets/114305641/1881b0ac-d79a-49ce-bd1f-3e2fde932e39)
+![f53](https://github.com/Messiassaba08/DTI-Lembretes/assets/114305641/cfc0eaa8-b03c-4be3-8567-cde491dd9fcc)
 
-### Em seguida, 
+
+### Boa Organização ;)
