@@ -1,5 +1,5 @@
-# Teste prático para vaga de desenvolvedor na DTI Digital
-Este projeto foi desenvolvido para o teste prático da DTI Digital. O projeto consiste em uma aplicação web para criação de lembretes.
+# Desenvolvendo Habilidades com C# / .NET
+O projeto consiste em uma aplicação web para criação de lembretes.
 
  ## Decisões de projeto
 - O backend do projeto de lembretes foi desenvolvido utilizando o framework ASP.NET Core, com C# como linguagem principal. A estrutura do projeto segue padrões RESTful, oferecendo - endpoints para operações CRUD (Create, Read, Update, Delete) sobre os lembretes.
